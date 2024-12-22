@@ -1,7 +1,8 @@
 # 🚀 React TypeScript Template - Your Next Web App Starts Here!
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
-[![Maintenance](https://github.com/guangzhaoli/react-ts-template/graphs/commit-activity)]
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/guangzhaoli/react-ts-template/graphs/commit-activity) 
+
 这个仓库是一个精心配置的 React TypeScript 模板，旨在帮助你快速启动新的 Web 应用程序开发。它集成了现代前端开发的最佳实践和常用工具，让你专注于构建出色的用户界面和体验，而无需从零开始配置基础架构。
 ## ✨ 主要特性
 * **⚡️ 极速开发体验:** 基于 [Vite](https://vitejs.dev/) 构建，提供闪电般的冷启动速度和热模块替换 (HMR)。
