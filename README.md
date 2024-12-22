@@ -1,7 +1,8 @@
 # 🚀 React TypeScript Template - Your Next Web App Starts Here!
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
-[![Maintenance](https://github.com/guangzhaoli/react-ts-template/graphs/commit-activity)]
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/guangzhaoli/react-ts-template/graphs/commit-activity) 
+
 [中文 README](zh-CN.md)
 
 This repository is a carefully configured React TypeScript template designed to help you quickly start developing new web applications. It integrates modern front-end development best practices and commonly used tools, allowing you to focus on building excellent user interfaces and experiences without configuring the basic infrastructure from scratch.
